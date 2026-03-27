@@ -1,2 +1,6 @@
-C:\Users\DHRUNALI RANA\eclipse-workspace\framework\src\main\java\framework\launchbrowser.java
-C:\Users\DHRUNALI RANA\eclipse-workspace\framework\src\main\java\framework\StandAlone.java
+D:\cicd\framework\src\main\java\framework\AbstractComponents\AbstractComponents.java
+D:\cicd\framework\src\main\java\framework\pageobjects\CartPage.java
+D:\cicd\framework\src\main\java\framework\pageobjects\CheckoutPage.java
+D:\cicd\framework\src\main\java\framework\pageobjects\ConfirmationPage.java
+D:\cicd\framework\src\main\java\framework\pageobjects\LandingPage.java
+D:\cicd\framework\src\main\java\framework\pageobjects\ProductCatalog.java

@@ -1,0 +1,5 @@
+framework\tests\ErrorValidations.class
+framework\tests\launchbrowser.class
+framework\testcomponents\BaseTest.class
+framework\tests\StandAlone.class
+framework\tests\SubmitOrderTest.class

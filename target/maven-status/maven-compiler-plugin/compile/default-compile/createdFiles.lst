@@ -1,0 +1,6 @@
+framework\pageobjects\LandingPage.class
+framework\pageobjects\CheckoutPage.class
+framework\pageobjects\ProductCatalog.class
+framework\AbstractComponents\AbstractComponents.class
+framework\pageobjects\ConfirmationPage.class
+framework\pageobjects\CartPage.class
